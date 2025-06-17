@@ -34,7 +34,7 @@ sudo apt install -y python3 python3-venv python3-pip git
 ```
 ```bash
 cd /opt  
-sudo git clone https://github.com/<ваш-username>/zoo_totem_bot.git  
+sudo git clone https://github.com/drmcastles/zoo_totem_bot.git  
 sudo chown -R $USER:$USER zoo_totem_bot  
 cd zoo_totem_bot
 ```
